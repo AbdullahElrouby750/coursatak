@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coursatak/static/css/main.27754c0a.css",
+    "main.js": "/coursatak/static/js/main.66c4f183.js",
+    "static/js/453.2f03010a.chunk.js": "/coursatak/static/js/453.2f03010a.chunk.js",
+    "index.html": "/coursatak/index.html",
+    "main.27754c0a.css.map": "/coursatak/static/css/main.27754c0a.css.map",
+    "main.66c4f183.js.map": "/coursatak/static/js/main.66c4f183.js.map",
+    "453.2f03010a.chunk.js.map": "/coursatak/static/js/453.2f03010a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27754c0a.css",
+    "static/js/main.66c4f183.js"
+  ]
+}
