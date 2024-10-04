@@ -1,0 +1,17 @@
+.item{
+    transition: all 0.1s ease-in-out;
+    font-size: 1.25rem;
+    border-radius: 3px;
+}
+
+.item:hover{
+    background-color: hsl(240, 50%, 90%);
+    color: hsl(216, 98%, 62%)!important;
+    cursor: pointer;
+}
+
+.item:active{
+    transform: scale(0.95);
+    box-shadow: 0 0 0 2px hsl(240, 50%, 90%);
+    transition: all ;
+}

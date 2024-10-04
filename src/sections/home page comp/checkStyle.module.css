@@ -1,0 +1,17 @@
+.checkBox{
+    width: 20px;
+    height: 20px;
+    background: hsl(240, 50%, 90%);
+    text-align: center;
+    margin: 0px 5px;
+    border-radius: 2px;
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.checkBox:active{
+    transform: scale(1.2);
+    background: hsl(240, 50%, 95%);
+    transition: all 0.05s ease-in-out;
+}
